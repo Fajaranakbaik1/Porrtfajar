@@ -245,7 +245,7 @@
         <div class="header-content">
             <h2>I`m</h2>
             <h1>Muhamad Fajar Ramdani</h1>
-            <button><a href="https://github.com/Fajaranakbaik1">Project</a></button>
+            <button><a href="https://github.com/muhamadfajarramdani">Project</a></button>
         </div>
     </header>
 
